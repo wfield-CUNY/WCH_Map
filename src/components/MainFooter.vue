@@ -156,7 +156,7 @@
     >
       <a
         href="https://github.com/Willjfield/WCH_Map"
-        onclick="javascript:window.open('https://github.com/Willjfield/WCH_Map'); return false;"
+        onclick="javascript:window.open('https://github.com/Willjfield'); return false;"
         >map by will field <v-icon dark small class="icon-class">mdi-github</v-icon></a
       >
     </div>
